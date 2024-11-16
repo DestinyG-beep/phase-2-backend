@@ -6,7 +6,7 @@
         "materials": ["wood", "nails", "paint", "hammer", "saw"],
         "difficulty": "medium",
         "description": "Build a simple wooden chair using basic woodworking tools.",
-        "image": "https://via.placeholder.com/200?text=Wooden+Chair"
+        "image": "https://res.cloudinary.com/dyrayvgch/image/upload/v1731746823/DALL_E_2024-11-16_11.22.16_-_A_wooden_chair_made_with_simple_woodworking_tools_like_a_saw_and_hammer._The_chair_should_have_a_rustic_handmade_feel_showcasing_the_craftsmanship_o_le55le.webp"
       },
       {
         "id": 2,
